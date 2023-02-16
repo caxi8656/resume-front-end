@@ -1,4 +1,4 @@
-# Cryptocurrency
+# Cryptocurrency, C++
 
 Catherine Xie
 
