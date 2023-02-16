@@ -1,2 +1,1 @@
-# Personal Website
-HTML and CSS
+# Personal Website, HTML and CSS
