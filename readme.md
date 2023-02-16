@@ -1,4 +1,4 @@
-# Interactive Animation 
+# Interactive Animation, Python
 
 Catherine Xie and Kai Franks
 
