@@ -5,8 +5,8 @@ This repository contains the code for my personal website, built using HTML and 
 
 In addition to HTML and CSS, I have experience with C++ and Python and have created several projects that can be found on my GitHub profile. Feel free to take a look at the code or visit the live site to learn more about me and my work.
 
- * `person_website.html:` Contains HTML file for personal website.
+ * `personal_website.html:` Contains HTML file for personal website.
 
- * `person_website.css:` Contains CSS file for personal website.
+ * `personal_website.css:` Contains CSS file for personal website.
 
  * `wa_img:` Contains the `person_website.png` image that is used as the background image for personal website.
